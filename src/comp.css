@@ -1,0 +1,24 @@
+.m1{
+    background-color:turquoise;
+    border-radius:100px;
+    color:green;
+    font-weight:bolder;  
+}
+.m1:hover{
+    color: chartreuse;
+}
+.m2{
+    background-color: blueviolet;
+    border-radius: 30px;
+    height: 330px;
+    width: 500px;
+}
+.a1:hover{
+   color: springgreen;
+}
+.m3{
+    background-color:aqua;
+    border-radius: 30px;
+    height: 330px;
+    width: 500px;
+}
